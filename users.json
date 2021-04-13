@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1122,
+    "email": "gabrielle@mail.com",
+    "firstName": "Gabrielle",
+    "lastName": "Kamph",
+    "passW": "passGK"
+  },
+  {
+    "id": 3597,
+    "email": "janne@mail.com",
+    "firstName": "Janne",
+    "lastName": "Kemi",
+    "passW": "passJK"
+  },
+  {
+    "id": 1749,
+    "email": "nalle@mail.com",
+    "firstName": "Nalle",
+    "lastName": "Puh",
+    "passW": "passNP"
+  }
+]
