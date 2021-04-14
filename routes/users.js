@@ -54,10 +54,9 @@ router.post("/new", function(req, res) {
         console.log(err);
       }
     })
-
   })
 
-  res.json("New user saved");
+  res.send("New user saved");
 
 });
 

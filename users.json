@@ -19,5 +19,12 @@
     "firstName": "Nalle",
     "lastName": "Puh",
     "passW": "passNP"
+  },
+  {
+    "id": 2949,
+    "email": "test@mail.com",
+    "firstName": "Testnamn",
+    "lastName": "Efternamn",
+    "passW": "123"
   }
 ]
